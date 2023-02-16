@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.exe
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.deps.json
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.dll
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\bin\Debug\net6.0\AnimalInheritance.pdb
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.dll
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\refint\AnimalInheritance.dll
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.pdb
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\AnimalInheritance\AnimalInheritance\obj\Debug\net6.0\ref\AnimalInheritance.dll
